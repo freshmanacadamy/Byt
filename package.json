@@ -1,7 +1,9 @@
 {
-  "name": "ju-marketplace-bot-vercel",
+  "name": "ju-grade-viewer-bot-vercel",
   "version": "1.0.0",
   "dependencies": {
-    "node-telegram-bot-api": "^0.64.0"
+    "node-telegram-bot-api": "^0.64.0",
+    "node-fetch": "^3.4.0",
+    "cheerio": "^1.0.0-rc.12"
   }
 }
